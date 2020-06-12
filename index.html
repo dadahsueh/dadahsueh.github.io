@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Just a portfolio.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="dadahsueh">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+
+  <title>dadahsueh</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Preloader Script -->
+  <script defer src="main.dart.js" type="application/javascript">
+    jQuery(document).ready(function() {
+        //Preloader
+        jQuery(window).on("load", function() {
+        preloaderFadeOutTime = 500;
+        function hidePreloader() {
+            var wrapper = jQuery('.spinner-wrapper');
+            var spinner = jQuery('.spinner');
+            wrapper.fadeOut(preloaderFadeOutTime);
+            spinner.fadeOut(preloaderFadeOutTime);
+        }
+        hidePreloader();
+        });
+    });
+  </script>
+
+  <!-- CSS -->
+    <style>
+    .spinner {
+      width: 100%;
+      height: 100%;
+      background-color: #202020;
+      position: absolute;
+      top: 0%;
+      left: 0%;
+    }
+    .cont {
+      width: 40px;
+      height: 40px;
+      position: absolute;
+      top: 45%;
+      left: 48%;
+      -webkit-animation: sk-rotate 2.0s infinite linear;
+      animation: sk-rotate 2.0s infinite linear;
+    }
+    .dot1, .dot2 {
+      width: 60%;
+      height: 60%;
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      background-color: #A74D4B;
+      border-radius: 100%;
+      -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+      animation: sk-bounce 2.0s infinite ease-in-out;
+    }
+    .dot2 {
+      top: auto;
+      bottom: 0;
+      -webkit-animation-delay: -1.0s;
+      animation-delay: -1.0s;
+    }
+    @-webkit-keyframes sk-rotate { 100% { -webkit-transform: rotate(360deg) }}
+    @keyframes sk-rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
+    @-webkit-keyframes sk-bounce {
+      0%, 100% { -webkit-transform: scale(0.0) }
+      50% { -webkit-transform: scale(1.0) }
+    }
+    @keyframes sk-bounce {
+      0%, 100% { 
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+      } 50% { 
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Loader -->
+  <div class="spinner">
+    <div class="cont">
+      <div class="dot1"></div>
+      <div class="dot2"></div>
+    </div>
+  </div>
+</body>
+</html>
