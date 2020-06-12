@@ -25423,9 +25423,9 @@ vb:function(){var t=null
 return H.b([B.YW(L.cC("About",A.bs(t,t,C.to,t,t,t,t,t,t,t,t,14,t,C.kB,t,t,!0,1,t,t,t,t,t),t),t,new Y.Jk()),B.YW(L.cC("contact",A.bs(t,t,C.nR,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,1,t,t,t,t,t),t),C.ty,new Y.Jl())],u.E)},
 ol:function(a){var t,s,r,q,p,o,n=this,m=null,l=F.bg(a,!1).a.a<768?24:0,k=Q.f3(m,A.bs(m,m,C.nR,m,m,m,m,m,m,m,m,F.bg(a,!1).a.a<768?36:45,m,C.aG,m,m,!0,1,m,m,m,m,m),"About")
 k=T.z2(m,m,C.bn,!0,m,Q.f3(H.b([k,Q.f3(m,A.bs(m,m,C.i0,m,m,m,m,m,m,m,m,F.bg(a,!1).a.a<768?36:45,m,C.aG,m,m,!0,1,m,m,m,m,m),"Me")],u.sU),m,m),C.aj,m,m,1,C.ay)
-t=L.cC("Perfectionist, Minimalist, Curious, Independent.\nProgrammer, Gamer & Entrepreneur.\nDue Date Driven.",A.bs(m,m,C.fm,m,m,m,m,m,m,m,m,17,m,m,m,m,!0,1.2,m,m,m,m,m),m)
+t=L.cC("Perfectionist, Minimalist, Curious, Independent.\nProgrammer & Game Enthusiast.\nDue Date Driven.",A.bs(m,m,C.fm,m,m,m,m,m,m,m,m,17,m,m,m,m,!0,1.2,m,m,m,m,m),m)
 s=F.bg(a,!1).a.a<768?12:24
-r=L.cC("A focused individual with technical and communication skills. Studied at the Australian National University with a major in Information Systems. Proficient at English, Mandarin, design, writing code in various languages, feature development and implementation. Always learning, always looking to learn new things. Unique thinker not afraid to paths.",A.bs(m,m,C.nQ,m,m,m,m,m,m,m,m,12,m,m,m,1.5,!0,1,m,m,m,m,m),m)
+r=L.cC("Born 1997.\nA focused individual with technical and communication skills. Studied at the Australian National University with a major in Information Systems. Proficient at English, Mandarin, design, writing code in various languages, feature development and implementation. Always learning, always looking to learn new things. Unique thinker not afraid to tread new paths.",A.bs(m,m,C.nQ,m,m,m,m,m,m,m,m,12,m,m,m,1.5,!0,1,m,m,m,m,m),m)
 q=F.bg(a,!1).a.a<768?24:48
 p=u.E
 o=F.bg(a,!1).a.a<768?T.e_(H.b([n.ve(),new T.bF(m,24,m,m),n.vi(a)],p),C.aZ,C.a4,C.dl):T.qq(H.b([new T.eK(1,C.be,n.ve(),m),new T.bF(40,m,m,m),new T.eK(1,C.be,n.vi(a),m)],p),C.aZ,C.a4,C.as)
@@ -25433,7 +25433,7 @@ return T.e_(H.b([new T.bF(m,l,m,m),k,new T.bF(m,4,m,m),t,new T.bF(m,s,m,m),new T
 vi:function(a){var t=null,s=new H.ac($.Ye,new Y.Jn(this,a),H.ah($.Ye).j("ac<1,cJ>")).bi(0)
 return T.e_(H.b([L.cC("Skills I Have",A.bs(t,t,C.fm,t,t,t,t,t,t,t,t,17,t,t,t,t,!0,1.2,t,t,t,t,t),t),new T.Ax(s,t)],u.E),C.aZ,C.a4,C.as)},
 ve:function(){var t=null
-return T.e_(H.b([L.cC("Experience",A.bs(t,t,C.fm,t,t,t,t,t,t,t,t,17,t,t,t,t,!0,1.2,t,t,t,t,t),t),L.cC("At the Australian National University, I have learned:",A.bs(t,t,C.nQ,t,t,t,t,t,t,t,t,12,t,t,t,t,!0,1,t,t,t,t,t),t),new T.bF(t,8,t,t),this.FE()],u.E),C.aZ,C.a4,C.as)},
+return T.e_(H.b([L.cC("Experience",A.bs(t,t,C.fm,t,t,t,t,t,t,t,t,17,t,t,t,t,!0,1.2,t,t,t,t,t),t),L.cC("At the Australian National University, I got a major in Information Systems. Learned subjects such as: Human Computer Interaction, Computer Graphics, Data Wrangling, Data Mining, Natural Language Processing, Deep Learning, Machine Learning, Project Management, Information Systems, Document Analysis. Mostly dealing with Python and Java, the courses taught me: pytorch, tensorflow, matplotlib, pandas, sql, nltk, etc. On my own time I learned various programs for creative works and game development.",A.bs(t,t,C.nQ,t,t,t,t,t,t,t,t,12,t,t,t,t,!0,1,t,t,t,t,t),t),new T.bF(t,8,t,t),this.FE()],u.E),C.aZ,C.a4,C.as)},
 FE:function(){var t=$.a1d()
 return T.e_(new H.ac(t,new Y.Jm(this),H.ah(t).j("ac<1,j>")).bi(0),C.b_,C.a4,C.as)},
 vg:function(a){var t=null,s=P.dd(0,3000),r=u.E
@@ -46854,7 +46854,7 @@ $.Yl=null
 $.TR=null
 $.F9=null
 $.a17=null
-$.Ye=H.b(["Java","Python","Dart","Flutter","C#","Unity","Android","iOS","Photoshop","Blender","Premiere Pro"],u.s)
+$.Ye=H.b(["Java","Python","Dart","Flutter","C#","Unity","Android","iOS","Photoshop","Blender","Premiere Pro","Illustrator","After Effects","Cinema4D","Photography","Tablet Drawing"],u.s)
 $.a3S=H.b([],H.a8("n<i<bk>(i<bk>)>"))
 $.a3T=U.a7N()
 $.VI=0
