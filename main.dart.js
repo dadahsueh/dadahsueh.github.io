@@ -25443,7 +25443,7 @@ return L.cC("\xa9 2020 DADA HSUEH. ALL RIGHTS RESERVED.",A.bs(t,t,C.fm,t,t,t,t,t
 vj:function(){var t=null
 return T.qq(H.b([D.eM(t,L.wN(C.ur,C.i2),C.M,!1,t,t,t,t,t,t,t,t,t,t,new Y.Jo(),t,t,t,t,t),new T.bF(16,t,t,t),D.eM(t,L.wN(C.uq,C.i2),C.M,!1,t,t,t,t,t,t,t,t,t,t,new Y.Jp(),t,t,t,t,t),new T.bF(16,t,t,t),D.eM(t,L.wN(C.ut,C.i2),C.M,!1,t,t,t,t,t,t,t,t,t,t,new Y.Jq(),t,t,t,t,t),new T.bF(16,t,t,t),D.eM(t,L.wN(C.us,C.i2),C.M,!1,t,t,t,t,t,t,t,t,t,t,new Y.Jr(),t,t,t,t,t)],u.E),C.b_,C.lD,C.as)}}
 Y.Js.prototype={
-$2:function(a,b){var t,s,r,q,p,o,n=null,m="assets/ino.webp",l=this.a,k=b.b,j=b.d,i=l.ol(a),h=$.fV,g=u.E
+$2:function(a,b){var t,s,r,q,p,o,n=null,m="assets/ino.png",l=this.a,k=b.b,j=b.d,i=l.ol(a),h=$.fV,g=u.E
 h=T.e_(H.b([new A.j6(n),new T.eK(1,C.be,T.qq(H.b([new T.eK(1,C.be,i,n),U.VQ(m,400*($.lK/h.a))],g),C.b_,C.a4,C.as),n),l.vg(a)],g),C.b_,C.a4,C.dl)
 i=$.fV
 i=T.e_(H.b([new A.j6(n),U.VQ(m,400*($.lK/i.a)),new T.eK(1,C.be,T.qq(H.b([new T.eK(1,C.be,l.ol(a),n)],g),C.b_,C.a4,C.as),n),l.vg(a)],g),C.b_,C.a4,C.dl)
