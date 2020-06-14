@@ -1,0 +1,39 @@
+# Lang
+lang: 简
+change: Switch to English
+
+# AppBar
+portfolio: portfolio.
+home: 关于
+contact: 联系
+slide: ← 向左滑动关闭
+
+# Header
+hello: 你好
+dot: | 
+  。
+iam: |
+  我是
+name: 薛名辰
+bgText: |-
+  设
+  计
+
+# Body
+about: 关于
+me: 我
+intro: |-
+  细心、极简、好奇、独立。
+  程式设计师 & 游戏爱好者。
+upto: |-
+  最近我在:
+  学习Flutter。
+# Content
+summary: |-
+  Born 1997.
+  认真负责，能够吃苦耐劳，忠诚稳重，坚守诚信正直原则，勇于挑战自我开发自身潜力；善于思考，勤奋务实，刻苦钻研，具备广泛的兴趣和很丰富的知识，适应能力强；肯学习，有问题不逃避，愿意虚心向他人学习。具有英语、中文、设计、编程能力。
+# Skill
+experience: 经验
+experienceLearn: |-
+  毕业于 澳大利亚国立大学 资讯系统专业，学习并运用到：人机互动、计算机图形学、数据整理、数据挖掘、自然语言处理、深度学习、机器学习、项目管理、资讯系统、以及文献分析法。熟悉运用Python和Java语言，以及pytorch、tensorflow、matplotlib、pandas、sql、nltk 等。业余时间会去学习各种感兴趣的软件和语言，目前在学习Flutter以及Unity。
+skills_i_have: 我会什么

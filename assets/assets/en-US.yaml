@@ -1,0 +1,40 @@
+# Lang
+lang: EN
+change: 切换繁体
+
+# AppBar
+portfolio: portfolio.
+home: about
+contact: contact
+slide: ← Slide Left To Close
+
+# Header
+hello: HELLO
+dot: | 
+  .
+iam: |
+  I AM
+name: DADA HSUEH
+bgText: |-
+  DE
+  S I
+  GN
+
+# Body
+about: About
+me: Me
+intro: |-
+  Perfectionist, Minimalist, Curious, Independent.
+  Programmer & Game Enthusiast.
+upto: |-
+  Lately I've Been:
+  Experimenting with flutter.
+# Content
+summary: |-
+  Born 1997.
+  A focused individual with technical and communication skills. Graduated from the Australian National University with a major in Information Systems. Proficient at English, Mandarin, design, writing code in various languages, feature development and implementation. Always learning, always looking to learn new things. Unique thinker not afraid to tread new paths.
+# Skill
+experience: Experience
+experienceLearn: |-
+  At the Australian National University, I learned subjects such as: Human Computer Interaction, Computer Graphics, Data Wrangling, Data Mining, Natural Language Processing, Deep Learning, Machine Learning, Project Management, Information Systems, Document Analysis. Mostly dealing with Python and Java, the courses taught me: pytorch, tensorflow, matplotlib, pandas, sql, nltk, etc. On my own time I learned various programs for creative works and game development.
+skills_i_have: Skills I Have
